@@ -1,0 +1,14 @@
+{
+  "name": "Entreprise AR — CRM",
+  "short_name": "AR CRM",
+  "description": "Visites techniques et devis de l'Entreprise AR",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3FB8",
+  "theme_color": "#1F3FB8",
+  "icons": [
+    { "src": "logo.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "logo.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
